@@ -1,7 +1,7 @@
 # Marbella Kjúklingur
 #adalrettur
 
-Innihald:
+## Innihald:
 - 2 vænir kjúklingar
 - ½ hvítlaukshaus
 - ⅛ bolli oreganó
@@ -16,7 +16,7 @@ Innihald:
 - ½ bolli púðursykur
 - ¼ bolli fínskorin steinselja
 
-Aðferð:
+## Aðferð:
 
 1. Skerið kjúklingana í bita og raðið í ofnskúffu.
 
